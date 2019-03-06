@@ -1,4 +1,4 @@
-# breakout
+### Breakout2D
 A breakout-style 2D game written in Javascript Phaser as learned in Mozilla's Tutorial[1].
 
 Play the game at yavin87.github.io/breakout
